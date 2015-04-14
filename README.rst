@@ -43,7 +43,7 @@ Installation
 
 2. Install django-pyodbc-azure ::
 
-    pip install django-pyodbc-azure
+    pip install git+https://github.com/bispo/django-pyodbc-azure
 
 3. Now you can point the ``ENGINE`` setting in the settings file used by
    your Django application or project to the ``'sql_server.pyodbc'``
