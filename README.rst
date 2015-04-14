@@ -41,7 +41,7 @@ Installation
 
 1. Install pyodbc and Django
 
-2. Install django-pyodbc-azure ::
+2. Install django-pyodbc-azure legacy::
 
     pip install git+https://github.com/bispo/django-pyodbc-azure
 
@@ -230,7 +230,7 @@ If you want to use it on older versions of Django,
 specify an appropriate version number (1.2.x for Django 1.7)
 at installation like this: ::
 
-    pip install "django-pyodbc-azure<1.8"
+    pip install git+https://github.com/bispo/django-pyodbc-azure
 
 License
 -------
