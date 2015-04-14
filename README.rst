@@ -1,4 +1,4 @@
-django-pyodbc-azure
+django-pyodbc-azure with suport Microsoft SQL 2000 for legacy projects
 ===================
 
 .. image:: http://img.shields.io/pypi/v/django-pyodbc-azure.svg?style=flat
@@ -13,6 +13,11 @@ django-pyodbc-azure
 DB backend that uses ODBC by employing the
 `pyodbc <https://code.google.com/p/pyodbc/>`__ library. It supports
 Microsoft SQL Server and Azure SQL Database.
+
+Specific Features
+-----------------
+- Enable Microsoft SQL Server 2000 raw Querys
+
 
 Features
 --------
