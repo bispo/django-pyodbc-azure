@@ -16,7 +16,7 @@ Microsoft SQL Server and Azure SQL Database.
 
 Specific Features
 -----------------
-- Enable Microsoft SQL Server 2000 raw Querys
+- Enable Microsoft SQL Server 2000 raw query's
 
 
 Features
